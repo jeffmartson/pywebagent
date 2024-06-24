@@ -4,3 +4,4 @@ setuptools
 python-dotenv
 argparse
 playwright
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
