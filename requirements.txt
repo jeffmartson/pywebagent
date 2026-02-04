@@ -4,3 +4,4 @@ setuptools
 python-dotenv
 argparse
 playwright
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
